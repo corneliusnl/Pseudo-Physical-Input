@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG July 1999//EN" "http://www.w3.org/Graphics/SVG/svg-19990730.dtd">
+<svg width="28cm" height="16cm" fitBoxToViewport="3 11 32 28">
+  <rect style="fill: #3939d7" x="4" y="12" width="27" height="15"/>
+  <rect style="stroke-width: 0.1; stroke: #000000" x="4" y="12" width="27" height="15"/>
+  <text style="fill: #000000; text-align: center; font-size: 1" x="18" y="14">System Applications</text>
+  <rect style="fill: #c72729" x="4" y="24" width="27" height="3"/>
+  <rect style="stroke-width: 0.1; stroke: #000000" x="4" y="24" width="27" height="3"/>
+  <text style="fill: #000000; text-align: center; font-size: 1" x="18" y="26">Pseudo-Physical Input</text>
+  <rect style="fill: #2aab39" x="18" y="18" width="13" height="3"/>
+  <rect style="stroke-width: 0.1; stroke: #000000" x="18" y="18" width="13" height="3"/>
+  <text style="fill: #000000; text-align: center; font-size: 1" x="24" y="20">Pseudo-API</text>
+  <rect style="fill: #fbff35" x="4" y="15" width="14" height="6"/>
+  <rect style="stroke-width: 0.1; stroke: #000000" x="4" y="15" width="14" height="6"/>
+  <text style="fill: #000000; text-align: center; font-size: 1" x="11" y="18">Pseudo-Physical Input</text>
+  <text style="fill: #000000; text-align: center; font-size: 1" x="11" y="19">Emulation</text>
+  <rect style="fill: #b069aa" x="4" y="21" width="27" height="3"/>
+  <rect style="stroke-width: 0.1; stroke: #000000" x="4" y="21" width="27" height="3"/>
+  <text style="fill: #000000; text-align: center; font-size: 1" x="18" y="23">Linux Kernel</text>
+</svg>

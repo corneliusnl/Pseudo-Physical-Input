@@ -1,0 +1,7 @@
+ppimouse.lo ppimouse.o : ppimouse.c ppi.h ../ppi/ppimouse.h ../ppi/ppikeyboard.h \
+ ../ppi/ppisignlanguage.h
+ppimouse.c :
+ppi.h :
+../ppi/ppimouse.h :
+../ppi/ppikeyboard.h :
+../ppi/ppisignlanguage.h :

@@ -1,0 +1,12 @@
+Todo:
+-More intelligent shortcut modification
+	-Allow merging of templates
+	-Allow importing of single templates
+-Linux kernel driver
+-Pseudo-Physical Input API
+	-Shortcut/Template widget
+-Mouse emulation
+-Keyboard emulation
+-Sign-language recognition
+-Resource file saving
+-Test applications
